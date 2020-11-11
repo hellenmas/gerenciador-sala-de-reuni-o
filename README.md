@@ -9,4 +9,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 💻️Angular 💻️Spring boot
 
-## Feito com ❤️ por hellenmassolin 👋️
+## Feito com ❤️ por hellenm
